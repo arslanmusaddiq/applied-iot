@@ -14,5 +14,5 @@
 
 **[Watch Lecture 01 on YouTube](https://www.youtube.com/watch?v=PyfmeE29jmc&t=1698s)**
 
-**Assignment**: [IoT Project](assignment-iot.md)
+**Assignment**: [IoT Project](1DV027-VT25/Assignment-iot.md)
 
